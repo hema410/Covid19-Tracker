@@ -33,7 +33,7 @@ To setup the app for development on your local machine, please follow the instru
 1. Clone the repo to your machine
 
 ```bash
-git clone https://github.com/sabesansathananthan/covid-19-tracker.git
+git clone https://github.com/hema410/Covid19-Tracker.git
 ```
 
 2. Install necessary packages
