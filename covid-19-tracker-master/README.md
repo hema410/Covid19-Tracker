@@ -56,10 +56,8 @@ npm start
 
 [Mathroid](https://covid19.mathdro.id/api/)
 
-## Deployment Status
 
-<a href= "https://world19covid.web.app/">
-<img src="https://firebase.google.com/images/brand-guidelines/logo-built_black.png" alt="" width="80" height="40" ></img></a>
+
 
 ## License 📄
 
