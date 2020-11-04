@@ -9,57 +9,26 @@ const Footer = () => {
   const SocialWidget = [
     {
       SocialMediaName: "LinkedIn",
-      ProfileLink: "https://www.linkedin.com/in/sabesan96/",
+      ProfileLink: "https://www.linkedin.com/in/hema-410/",
       fontAwesomeIconName: "fab fa-linkedin",
       OnMouseOverColor: "#4875B4",
     },
     {
       SocialMediaName: "GitHub",
-      ProfileLink: "https://github.com/sabesansathananthan",
+      ProfileLink: "https://github.com/hema410",
       fontAwesomeIconName: "fab fa-github",
       OnMouseOverColor: "#211F1F",
     },
     {
-      SocialMediaName: "Medium",
-      ProfileLink: "https://medium.com/@sabesan96",
-      fontAwesomeIconName: "fab fa-medium",
-      OnMouseOverColor: "#12100e",
-    },
-    {
-      SocialMediaName: "StackOverFlow",
-      ProfileLink:
-        "https://stackoverflow.com/users/8629258/sathananthan-sabesan",
-      fontAwesomeIconName: "fab fa-stack-overflow",
-      OnMouseOverColor: "#f48024",
-    },
-    {
       SocialMediaName: "Gmail",
-      ProfileLink: "mailto:sabesan996@gmail.com",
+      ProfileLink: "mailto:hemapriyamanne4@gmail.com",
       fontAwesomeIconName: "far fa-envelope",
       OnMouseOverColor: "#D44638",
       _comment: "OnMouseOverColor for yahoo mail: #720e9e",
     },
     {
-      SocialMediaName: "WhatsApp",
-      ProfileLink: "https://wa.me/94770711017",
-      fontAwesomeIconName: "fab fa-whatsapp",
-      OnMouseOverColor: "#25d366",
-    },
-    {
-      SocialMediaName: "Telegram",
-      ProfileLink: "https://telegram.me/TheSabesan",
-      fontAwesomeIconName: "fab fa-telegram",
-      OnMouseOverColor: "#0088cc",
-    },
-    {
-      SocialMediaName: "Twitter",
-      ProfileLink: "https://twitter.com/TheSabesan",
-      fontAwesomeIconName: "fab fa-twitter",
-      OnMouseOverColor: "#1da1f2",
-    },
-    {
       SocialMediaName: "Facebook",
-      ProfileLink: "https://www.facebook.com/sathananthan.sabesan",
+      ProfileLink: "https://www.facebook.com/hemapriya.manne",
       fontAwesomeIconName: "fab fa-facebook-f",
       OnMouseOverColor: "#1877f2",
     },
