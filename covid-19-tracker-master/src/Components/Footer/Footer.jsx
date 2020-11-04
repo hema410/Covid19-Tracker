@@ -48,12 +48,12 @@ const Footer = () => {
         >
           Created with care by{" "}
           <a
-            href="https://github.com/sabesansathananthan/covid-19-tracker"
+            href="https://github.com/hema410/Covid19-Tracker/tree/master/covid-19-tracker-master"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "rgba(0,0,255,0.6)", textDecoration: "none" }}
           >
-            Sabesan Sathananthan
+            HemaPriya Manne
           </a>
         </h6>
       </div>
